@@ -1,7 +1,9 @@
 # Rich Editor
 
-a rich text editor based on html canvas.
+a rich editor based on html canvas.
+partially compatible with docx,pptx,xlsx.
 
-https://edit.hidocs.cn/wp.html
+status:dev
 
-https://edit.hidocs.cn/ss.html
+demo:
+https://api.hidocview.cn/editor
