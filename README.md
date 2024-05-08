@@ -6,4 +6,4 @@ partially compatible with docx,pptx,xlsx.
 status:dev
 
 demo:
-https://api.hidocview.cn/editor
+https://api.hidocview.cn/edit
